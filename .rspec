@@ -1,2 +1,29 @@
+def #sort_array_asc
+  puts [1,2,3,4,5].sort_array_asc
+  
+  end
+
+def #sort_array_desc
+  puts [5,4,3,2,1].sort_array_desc
+  
+  end
+
+def #sort_array_char_count
+  puts [1,2,3,4,5].sort_array_char_count
+  
+  end
+  
+ def #swap_elements
+  puts [2,3,4,5,6].swap_elements
+  
+  end
+  
+swap_elements_from_to(["a","b","c"],0,2)
+  end
+  
+swap_elements_from_to(["a","b","c"],2,1) 
+  end
+  
+  
 --color
 --format documentation
